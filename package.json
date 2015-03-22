@@ -1,0 +1,15 @@
+{
+  "name": "midas",
+  "version": "0.0.0",
+  "description": "Scryptify's Main System",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.53.0"
+  }
+}
