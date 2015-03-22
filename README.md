@@ -5,3 +5,8 @@ Setup of Curl Calls
 - Copy `.env_example` to `.env` and replace the temp strings with the actual API key and the API Secret
 - run `node test_env_vars.js` and verify that your API and Secret are displayed
 
+# Libraries
+- https://github.com/request/request
+- https://github.com/motdotla/dotenv
+- https://github.com/coinkite/coinkite-javascript
+
